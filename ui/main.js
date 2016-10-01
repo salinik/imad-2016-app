@@ -1,5 +1,5 @@
 console.log('Loaded!');
-var element= document.getElamentById(`main-text`);
+var element= document.getElementById(`main-text`);
 element.innerHTML="new value";
 var img=document.getElementById("madi");
 var marginLeft=0;
