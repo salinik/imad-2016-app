@@ -30,7 +30,15 @@ body {
   
    
    }
-   .footer
+   .header
+   {
+     padding: 1em;
+    color: white;
+    background-color:cyan;
+    clear: left;
+    text-align: center;
+   }
+   .footer 
    {
       padding: 1em;
     color: white;
