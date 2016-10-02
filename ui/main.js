@@ -1,4 +1,4 @@
-console.log('Loaded!');
+
 //couter code
 
 var button=document.getElementById("counter");
