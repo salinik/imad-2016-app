@@ -25,9 +25,11 @@ position:relative;
 top:200px;
 }
 .text
-{font-family:"Times New Roman", Times, serif;
-text-align:center;
+{
 color:#FFFFFF;
+font-family:"Times New Roman", Times, serif;
+text-align:center;
+
 font-size:24px;
 }
 .para{
