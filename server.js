@@ -103,6 +103,9 @@ app.get('/ui/main.js', function (req, res) {
 app.get('/MyProfile', function (req, res) {
    res.sendFile(path.join(__dirname,'ui',"MyProfile.html"));
 });
+app.get('/ui/bi.css', function (req, res) {
+   res.sendFile(path.join(__dirname,'ui',"bi.css"));
+});
 
 app.get('/:articleName', function (req, res) {
     var articleName=req.params.articleName;
