@@ -1,11 +1,34 @@
-.container {
-  display: flex;
-}
-
-.nav {
- background-color: blanchedalmond;
-  max-width: 25%;
-  min-width: 140px;
-  flex: 1;
-  color:red;
-}
+ 
+        body{
+            background-image:url("http://www.cg-04.com/sites/default/files/images/environment.jpg");
+            background-repeat: no-repeat;
+            width:100%;
+            height:auto;
+        }
+            .tab{
+                margin:0 auto;
+                max-width:800px;
+                padding-top:100px;
+            
+                
+            }
+            .td1
+            {
+                  height:70px;
+                  width:60px;
+                font-family: serif;  
+                background: lightgrey;
+            
+             }
+         
+         .center{
+             text-align: center;
+         }
+         .ini
+         {
+             text-align: inherit;
+         }
+         .un{
+             background :#CCF5C2;
+         }
+       
