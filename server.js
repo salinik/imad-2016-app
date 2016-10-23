@@ -103,8 +103,8 @@ app.get('/ui/main.js', function (req, res) {
 app.get('/ente', function (req, res) {
    res.sendFile(path.join(__dirname,'ui',"ente.html"));
 });
-app.get('/ui/bi.css', function (req, res) {
-   res.sendFile(path.join(__dirname,'ui',"bi.css"));
+app.get('/ui/style1.css', function (req, res) {
+   res.sendFile(path.join(__dirname,'ui',"style1.css"));
 });
 
 app.get('/yog', function (req, res) {
