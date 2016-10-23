@@ -107,8 +107,8 @@ app.get('/ui/bi.css', function (req, res) {
    res.sendFile(path.join(__dirname,'ui',"bi.css"));
 });
 
-app.get('/MyProfile', function (req, res) {
-   res.sendFile(path.join(__dirname,'ui',"MyProfile.html"));
+app.get('/yog', function (req, res) {
+   res.sendFile(path.join(__dirname,'ui',"yog.html"));
 });
 
 app.get('/:articleName', function (req, res) {
