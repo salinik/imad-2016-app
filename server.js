@@ -107,10 +107,6 @@ app.get('/ui/style1.css', function (req, res) {
    res.sendFile(path.join(__dirname,'ui',"style1.css"));
 });
 
-app.get('/yog', function (req, res) {
-   res.sendFile(path.join(__dirname,'ui',"yog.html"));
-});
-
 app.get('/:articleName', function (req, res) {
     var articleName=req.params.articleName;
   res.send(createTemplate(articles[articleName]));
