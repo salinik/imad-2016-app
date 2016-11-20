@@ -1,27 +1,53 @@
 @charset "utf-8";
-.bg {
-	height:500px;
-	background-attachment: fixed;
+/* CSS Document */
+.tx{
+background:transparent;
+font-family: serif;
+vertical-align: baseline;
+}
+.al{
+text-align:center;
+padding-top:300px;
+font-size:36px;
+font-style:normal;
+font-weight:700;
+color:#FFFFFF;
+
+}
+.al1{
+	text-align:center;
+	padding-top:70px;
+	font-size:36px;
+	font-style:normal;
+	font-weight:700;
+	color:#060606;
+	background-color:mistyrose;
+	
+}
+
+.hed{
+background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-	padding-left:10px;
-	
+	height:200px;
+	background:#931102;
 	}
-	.bg1{
-
+.bg1{
+padding-top:10px;
 text-align:center;
 padding-left:50%;
-height:50px;
-background-color:#000099;
+height:40px;
+background-color:#FFFFFF;
+
 
 }
 ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+	padding:0;
     overflow: hidden;
-    background-color:#000099;
+    background-color:#FFFFFF;
 	
 }
 
@@ -31,7 +57,7 @@ li {
 
 li a {
     display: block;
-    color: white;
+    color:#FF0066;
     text-align: center;
     padding: 10px 16px;
     text-decoration: none;
@@ -40,103 +66,90 @@ li a {
 li a:hover {
     background-color: #111;
 }
-#head{
-text-align:left;
-font-family:sans-serif;
-padding-left:30px;
-position:relative;
+.im1{
+background-image:url(ma.jpg);
+height:500px;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	}
+
+.d1{
+height:500px;
+width:auto;
+}
+.d2{
+margin-left:100px;
+height:500;
+width:auto;
+padding-top:40px;
+}
+.d3{
+
+	background-color:mistyrose;
+	text-align:center;
+	font-size:16px;
+	background-color:#CCCCCC;
+
+	}
+	.im2 {
+	height:500px;
+	
+	background-image:url(mi.jpg);
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-.h1{
-display: table;
-  margin: 0 auto;
-  font-family: "Roboto Slab";
-  font-weight: 400;
-  font-size: 2em;
-  background: linear-gradient(330deg, #e05252 0%, #99e052 25%, #52e0e0 50%, #9952e0 75%, #e05252 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  line-height: 40px;
-  height:50px;
- background-attachment: fixed;
-  }
-  * {box-sizing:border-box}
-body {font-family: Verdana,sans-serif;}
-.mySlides {display:none}
-
-/* Slideshow container */
-.slideshow-container {
-  max-width: 100%;
-  position: relative;
-  margin: auto;
+.im3 {
+	height:500px;
+	background-image:url(mu.jpg);
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}.mn {
+	margin-top: 10px;
+	background-color:mistyrose;
 }
 
-/* Caption text */
-.text {
-  color: #f2f2f2;
-  font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
+.mn1 {
+	margin-top: 10px;
+	margin-right: 300px;
+	margin-left: 250px;
 }
-
-/* Number text (1/3 etc) */
-.numbertext {
-  color: #f2f2f2;
-  font-size: 12px;
-  padding: 3px 6px;
-  position: absolute;
-  top: 0;
-}
-
-/* The dots/bullets/indicators */
-.dot {
-  height: 13px;
-  width: 13px;
-  margin: 0 2px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
-}
-
-.active {
-  background-color: #717171;
-}
-
-/* Fading animation */
-.fade {
-  -webkit-animation-name: fade;
-  -webkit-animation-duration: 1.5s;
-  animation-name: fade;
-  animation-duration: 1.5s;
-}
-
-@-webkit-keyframes fade {
-  from {opacity: .4}
-  to {opacity: 1}
-}
-
-@keyframes fade {
-  from {opacity: .4}
-  to {opacity: 1}
-}
-
-/* On smaller screens, decrease text size */
-@media only screen and (max-width: 300px) {
-  .text {font-size: 11px}
-}
-.exp{
-padding-top:100px;
-text-align:center;
+.tx1{
 color:#FF3300;
+font-family:Arial, Helvetica, sans-serif;
+}
+.pad{
+padding-left:20px;
+}
+.i{
+font-family: -webkit-body;;
 font-size:24px;
+padding-left:20px;
+font-style:italic;
+text-align:justify;
 }
-.img-circle {
-    border-radius: 50%;
+.cat{
+font-family: -webkit-body;;
+font-size:16px;
+padding-left:20px;
+text-align:justify;
+color:#FF3300;
 }
-.cir{
+.ct1{
+margin-left:200px;
+}
+
+.or{
+margin-left:300px;
+padding-top:50px;
+margin-right:300px;
+background-color:#FFFFFF;
+color:#FF3300;
 text-align:center;
 }
