@@ -84,7 +84,7 @@ var htmlTemplate=`<html>
 return htmlTemplate;
 }
 
-app.get('/', function (req, res) {
+app.get('/index', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
 });
  var counter=0;
@@ -100,7 +100,7 @@ app.get('/ui/style.css', function (req, res) {
 app.get('/ui/main.js', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'main.js'));
 });
-app.get('/ente', function (req, res) {
+app.get('/', function (req, res) {
    res.sendFile(path.join(__dirname,'ui',"ente.html"));
 });
 app.get('/ui/style1.css', function (req, res) {
