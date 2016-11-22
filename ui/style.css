@@ -1,17 +1,33 @@
-.side{
-    width: 120px;
-    background: #222;
-    height: 100%;
-    width: 200px;
-    background-color: #fff;
-    position: fixed!important;
-    z-index: 1;
-    overflow: auto;
+.bg1{
+padding-top:10px;
+text-align:center;
+padding-left:50%;
+height:40px;
+background-color:#FFFFFF;
+
+
 }
-.center{
+ul {
+    list-style-type: none;
+    margin: 0;
+	padding:0;
+    overflow: hidden;
+    background-color:#FFFFFF;
+	
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color:#FF0066;
     text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
 }
-.small
-{
-    font-size: 12px;
+
+li a:hover {
+    background-color: #111;
 }
