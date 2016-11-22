@@ -31,3 +31,29 @@ li a {
 li a:hover {
     background-color: #111;
 }
+.tx{
+background:transparent;
+font-family: serif;
+vertical-align: baseline;
+}
+.al{
+text-align:center;
+padding-top:300px;
+font-size:36px;
+font-style:normal;
+font-weight:700;
+color:#FFFFFF;
+
+}
+.im1{
+background-image:url(ma.jpg);
+height:500px;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	}
+	.d1{
+height:500px;
+width:auto;
+}
