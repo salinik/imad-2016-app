@@ -147,7 +147,7 @@ text-align:justify;
 .par{font-family:serif;
 	left:420px;
 	position:absolute;
-	top:500%;
+	top:200%;
 	width: 690px;
 	height: 40px;
 	text-align:center;
@@ -156,4 +156,3 @@ text-align:justify;
 	padding-top:10px;
 }
     
-}
