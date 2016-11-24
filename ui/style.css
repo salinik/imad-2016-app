@@ -206,3 +206,15 @@ text-align:justify;
 	color:#f5f4f4;
 	padding-top:10px;
 }
+.add{
+	font-family:serif;
+	left:420px;
+	position:absolute;
+	top:342px;
+	width: 690px;
+	height: 90%;
+	text-align:center;
+	background-color:rgb(253, 253, 253);
+	color:#111;
+	padding-top:10px;
+}
