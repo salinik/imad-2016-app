@@ -1,51 +1,4 @@
-.head {
-	margin-top: 0px;
-	margin-right: 900px;
-	margin-left: 0px;
-	height:500px;
-	position:fixed;
-}
-.head .hom {
-	margin-top: 60px;
-}
-.head div {
-	margin: 90px;
-}
-.bg1{
-padding-top:10px;
-text-align:center;
-padding-left:50%;
-height:40px;
-background-color:#FFFFFF;
 
-
-}
-ul {
-    list-style-type:none;
-    margin: 0;
-	padding:0;
-    overflow: hidden;
-    background-color:#FFFFFF;
-	
-}
-
-li {
-    float:inherit;
-}
-
-li a {
-    display: block;
-    color:#FF0066;
-    text-align: center;
-    padding: 10px 16px;
-    text-decoration: none;
-	margin:50px;
-}
-
-li a:hover {
-    background-color: #111;
-}
-@charset "utf-8";
 .head {
 	top: 0px;
 	left:0px;
@@ -80,9 +33,9 @@ li a {
     display: block;
 	color:#FFFFFF;
     text-align: center;
-    padding: 30px 16px;
+    padding: 40px 16px;
     text-decoration: none;
-	margin:50px;
+	margin:30px;
 }
 
 li a:hover {
