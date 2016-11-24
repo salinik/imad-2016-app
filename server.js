@@ -103,6 +103,9 @@ app.get('/ui/main.js', function (req, res) {
 app.get('/', function (req, res) {
    res.sendFile(path.join(__dirname,'ui',"ente.html"));
 });
+app.get('/index.html', function (req, res) {
+   res.sendFile(path.join(__dirname,'ui',"index.html"));
+});
 app.get('/ui/style1.css', function (req, res) {
    res.sendFile(path.join(__dirname,'ui',"style1.css"));
 });
