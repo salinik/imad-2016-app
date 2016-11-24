@@ -45,6 +45,49 @@ li a {
 li a:hover {
     background-color: #111;
 }
+@charset "utf-8";
+.head {
+	top: 0px;
+	left:0px;
+	margin-right: 900px;
+	margin-left: 0px;
+	height:900px;
+	position:fixed;
+	background-color:#111;
+}
+.head .hom {
+	margin-top: 60px;
+}
+.head div {
+	margin: 90px;
+}
+
+ul {
+    list-style-type:none;
+    margin: 0;
+	padding:0;
+    overflow: hidden;
+    background-color:#111;
+	
+}
+
+li {
+    float:inherit;
+	font-family:sans-serif;
+}
+
+li a {
+    display: block;
+	color:#FFFFFF;
+    text-align: center;
+    padding: 30px 16px;
+    text-decoration: none;
+	margin:50px;
+}
+
+li a:hover {
+    background-color:#FF0066;
+}
 .img {
 	font-size: 36px;
 	font-style: normal;
@@ -53,35 +96,60 @@ li a:hover {
 	position:absolute;
 	left: 216px;
 	top: 8px;
-	height: 904px;
+	height: 335px;
+	
 }
 .im1{
 background-image:url(Partner-Philanthropistss.jpg);
 }
-
-.tx{
-background:transparent;
-font-family: serif;
-vertical-align: baseline;
+h2{
+font-family:sans-serif;
 }
-.al{
+.text{
 text-align:center;
-padding-top:300px;
-font-size:36px;
-font-style:normal;
-font-weight:700;
-color:#FFFFFF;
+padding-top:100px;
+}
+.topic{
+	left:437px;
+	position:absolute;
+	top:487px;
+	width: 549px;
+	height: 130px;
+	text-align:center
+}
+.img-circle {
+    border-radius: 1000%;
+}
+.cir{
+text-align:center;
+height:240px;
+}
 
+.topic1 {
+	left:165px;
+	position:absolute;
+	top:120%;
+	width: 998px;
+	height: 130px;
+	text-align:center
 }
-.im1{
-background-image:url(mi.jpg);
-height:500px;
-	background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+.cre{
+padding-left:50px;
+text-align:justify;
+}
+.menu{
+	left:471px;
+	position:absolute;
+	top:644px;
+	width: 608px;
+	height: 130px;
+	text-align:center;
 	}
-	.d1{
-height:500px;
-width:auto;
-}
+.im{
+	left:465px;
+	position:absolute;
+	top:637px;
+	width: 598px;
+	height: 130px;
+	text-align:center;
+	}
