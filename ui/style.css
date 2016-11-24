@@ -41,32 +41,40 @@ li a {
 li a:hover {
     background-color:#FF0066;
 }
+.im{
+background-image:url(_91390895_thinkstockjetty976.jpg);
+background-repeat:no-repeat;
+background-size:cover;
+}
 .img {
+	
 	font-size: 36px;
 	font-style: normal;
 	color: #000000;
 	width:1004px;
 	position:absolute;
 	left: 216px;
-	top: 8px;
+	top: 0px;
 	height: 335px;
+	
 	
 }
 .im1{
 background-image:url(Partner-Philanthropistss.jpg);
 }
 h2{
-font-family:sans-serif;
+font-family:serif;
+color:#f5f4f4;
 }
 .text{
 text-align:center;
-padding-top:100px;
+padding-top:200px;
 }
 .topic{
-	left:437px;
+	left:446px;
 	position:absolute;
-	top:487px;
-	width: 549px;
+	top:667px;
+	width: 532px;
 	height: 130px;
 	text-align:center
 }
@@ -99,10 +107,21 @@ text-align:justify;
 	text-align:center;
 	}
 .im{
-	left:465px;
+	left:198px;
 	position:absolute;
-	top:637px;
-	width: 598px;
-	height: 130px;
+	top:0px;
+	width: 85%;
+	height: 249px;
 	text-align:center;
 	}
+.headr {
+	font-family:serif;
+	left:503px;
+	position:absolute;
+	top:424px;
+	width: 548px;
+	height: 60px;
+	text-align:center;
+	background-color:#111;
+	color:#f5f4f4;
+}
