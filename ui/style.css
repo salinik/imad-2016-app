@@ -182,3 +182,15 @@ text-align:justify;
     font-size:large;
     color:#FF3300;
 }
+.secim{
+    	font-family:serif;
+	left:420px;
+	position:absolute;
+	top:180%;
+	width: 690px;
+	height: 70%;
+	text-align:center;
+	background-image:url(sun.png);
+	padding-top:10px;
+}
+
