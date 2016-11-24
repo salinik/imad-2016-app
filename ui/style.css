@@ -89,10 +89,10 @@ height:240px;
 .topic1 {
 	left:165px;
 	position:absolute;
-	top:140%;
+	top:140px;
 	width: 998px;
 	height: 130px;
-	text-align:center
+	text-align:center;
 }
 .cre{
 padding-left:50px;
