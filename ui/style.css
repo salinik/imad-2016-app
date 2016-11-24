@@ -125,6 +125,7 @@ text-align:justify;
 }
 .cp{
     background-image:url(mu.jpg);
+    margin-top:30px;
     width: 545px;
 	height: 500px;
 	margin-left:300px;
