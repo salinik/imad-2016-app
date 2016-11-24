@@ -4,6 +4,11 @@
   <link href="/ui/style.css" rel="stylesheet" />
    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
        <meta name="viewport" content="width=device-width, initial-scale=1">
+       <script>
+function myFunction() {
+    alert("The form was submitted");
+}
+</script>
 </head>
 
 <body bgcolor="#f1f1f1">
@@ -45,7 +50,7 @@
 <p>PH:+91-98XXXXXXXX</p><br><br>
 <p>Reserve a table, ask for today's special or just send us a message:</p>
 <br><br>
-<form action="index.html" method="POST">
+<form action="index.html" onsubmit="myFun()" method="POST">
     <section>
 										<label class="input">
 										
