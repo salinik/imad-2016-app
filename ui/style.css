@@ -126,9 +126,9 @@ text-align:justify;
 .cp{
     background-image:url(mu.jpg);
     margin-top:50px;
-    width: 545px;
+    width: 600px;
 	height: 700px;
-	margin-left:300px;
+	margin-left:250px;
 	background-size: contain;
     background-repeat: no-repeat;
 }
