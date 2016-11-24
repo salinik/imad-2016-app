@@ -174,3 +174,9 @@ text-align:justify;
 	color:#111;
 	padding-top:10px;
 }
+.al{
+    text-align:start;
+    font-family:sans;
+    font-size:large;
+}
+}
