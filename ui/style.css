@@ -128,5 +128,7 @@ text-align:justify;
     width: 545px;
 	height: 400px;
 	margin-left:300px;
+	background-size: contain;
+    background-repeat: no-repeat;
 }
 
