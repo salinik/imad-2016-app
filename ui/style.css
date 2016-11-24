@@ -132,4 +132,15 @@ text-align:justify;
 	background-size: contain;
     background-repeat: no-repeat;
 }
-
+.ab{
+    	font-family:serif;
+	left:420px;
+	position:absolute;
+	top:500px;
+	width: 690px;
+	height: 40px;
+	text-align:center;
+	background-color:#111;
+	color:#f5f4f4;
+}
+}
