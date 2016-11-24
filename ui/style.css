@@ -89,7 +89,7 @@ height:240px;
 .topic1 {
 	left:165px;
 	position:absolute;
-	top:200px;
+	top:200%;
 	width: 998px;
 	height: 130px;
 	text-align:center;
