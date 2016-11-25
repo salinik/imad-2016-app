@@ -280,3 +280,15 @@ text-align:justify;
 	color:#111;
 	padding-top:10px;
 }
+.rib{
+    	font-family:serif;
+	left:420px;
+	position:absolute;
+	top:300%;
+	width: auto;
+	height: 40px;
+	text-align:center;
+	background-color:#111;
+	color:#f5f4f4;
+	padding-top:10px;
+}
