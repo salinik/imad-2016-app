@@ -236,3 +236,16 @@ text-align:justify;
 	color:#f5f4f4;
 	padding-top:10px;
 }
+.par1{
+    font-family:serif;
+	left:420px;
+	position:absolute;
+	top:300%;
+	width: 690px;
+	height: 100px;
+	text-align:center;
+	background-color:#f5f4f4;
+	color:#111;
+	padding-top:10px;
+}
+}
