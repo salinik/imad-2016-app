@@ -78,9 +78,10 @@ padding-top:200px;
 }
 .img-circle {
     border-radius: 1000%;
+    background-image:url(prof.png);
 }
 .cir{
-    background-image:url(prof.png);
+    
 text-align:center;
 height:240px;
 }
