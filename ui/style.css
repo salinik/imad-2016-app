@@ -248,3 +248,11 @@ text-align:justify;
 	color:#111;
 	padding-top:10px;
 }
+.topic3 {
+	left:400px;
+	position:absolute;
+	top:200%;
+	width: 998px;
+	height: 130px;
+	text-align:center;
+}
