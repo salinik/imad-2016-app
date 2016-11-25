@@ -130,6 +130,14 @@ text-align:justify;
 	height: 249px;
 	text-align:center;
 	}
+	.imm1{
+	left:198px;
+	position:absolute;
+	top:0px;
+	width: 85%;
+	height: 500px;
+	text-align:center;
+	}
 .headr {
 	font-family:serif;
 	left:420px;
