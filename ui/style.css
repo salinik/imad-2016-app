@@ -74,8 +74,10 @@ background-size:cover;
 }
 
 h2{
-font-family:serif;
-color:#f5f4f4;
+color: black;
+    font-family: serif;
+    font-size: larger;
+    font-weight: 500;
 }
 .text{
 text-align:center;
