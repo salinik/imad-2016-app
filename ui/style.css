@@ -282,10 +282,10 @@ text-align:justify;
 }
 .rib{
     	font-family:serif;
-	left:420px;
+	
 	position:absolute;
 	top:400%;
-	width: 1004px;
+	width: 0 auto;
 	height: 40px;
 	text-align:center;
 	background-color:#111;
