@@ -130,6 +130,10 @@ app.get('/ui/mu.jpg', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'mu.jpg'));
 });
 
+app.get('/ui/download(1).png', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'download(1).png'));
+});
+
 app.get('/ui/head.png', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'head.png'));
 });
