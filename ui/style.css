@@ -69,7 +69,7 @@ text-align:center;
 padding-top:200px;
 }
 .topic{
-	left:446px;
+	left:px;
 	position:absolute;
 	top:667px;
 	width: 532px;
@@ -90,7 +90,7 @@ width:200px;
 }
 
 .topic1 {
-	left:165px;
+	left:400px;
 	position:absolute;
 	top:170%;
 	width: 998px;
@@ -139,7 +139,7 @@ text-align:justify;
 }
 .ab{
     	font-family:serif;
-	left:620px;
+	left:420px;
 	position:absolute;
 	top:150%;
 	width: 690px;
