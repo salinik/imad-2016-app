@@ -268,3 +268,15 @@ text-align:justify;
 	color:#f5f4f4;
 	padding-top:10px;
 }
+.par3{
+    font-family:sans-serif;
+	left:420px;
+	position:absolute;
+	top:290%;
+	width: 690px;
+	height: 150px;
+	text-align:center;
+	background-color:#f5f4f4;
+	color:#111;
+	padding-top:10px;
+}
