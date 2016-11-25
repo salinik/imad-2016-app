@@ -46,6 +46,19 @@ background-image:url(head.png);
 background-repeat:no-repeat;
 background-size:cover;
 }
+.imgm {
+	
+	font-size: 36px;
+	font-style: normal;
+	color: #000000;
+	width:1004px;
+	position:absolute;
+	left: 216px;
+	top: 0px;
+	height: 500px;
+	
+	
+}
 .img {
 	
 	font-size: 36px;
@@ -290,4 +303,7 @@ text-align:justify;
 	background-color:#111;
 	color:#f5f4f4;
 	padding-top:10px;
+}
+.ic{
+    background-image:url(download1.png);
 }
