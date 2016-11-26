@@ -429,7 +429,7 @@ label::before {
   height: 0px;
   overflow: hidden;
   transition: height 0.5s;
-  background: url(http://placekitten.com/g/600/300);
+  background-color:white;
   color: #FFF;
 }
 section {
