@@ -309,7 +309,7 @@ text-align:justify;
     	position:absolute;
 	top:390%;
 	width: 200%;
-	height: 60px;
+	height: 90px;
 	text-align:center;
 	background-color:#111;
 	color:#f5f4f4;
@@ -335,5 +335,5 @@ text-align:justify;
 	text-align:center;
 	background-color:#111;
 	color:#f5f4f4;
-	padding-top:10px;
+	padding-top:30px;
 }
