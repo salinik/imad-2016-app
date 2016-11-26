@@ -266,11 +266,11 @@ text-align:justify;
 	position:absolute;
 	top:230%;
 	width: 690px;
-	height: 150px;
+	height: 300px;
 	text-align:center;
-	background-color:#f5f4f4;
+	background-color:#bbb4b4;
 	color:#111;
-	padding-top:10px;
+	padding-top:50px;
 }
 .topic3 {
 	left:400px;
