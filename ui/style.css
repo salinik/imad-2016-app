@@ -436,7 +436,7 @@ section {
   padding: 0 20px;
 }
 #toggle:checked ~ #expand {
-  height: 250px;
+  height: 400px;
 }
 #toggle:checked ~ label::before {
   content: "-";
