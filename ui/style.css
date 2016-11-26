@@ -326,11 +326,12 @@ text-align:justify;
 .rib1{
     background-image:url(fb.png);
     background-size:contain;
+    background-repeat:no-repeat;
     left:420px;
     position:absolute;
 	top:10%;
-	width:20;
-	height: 60px;
+	width:40;
+	height: 90px;
 	text-align:center;
 	background-color:#111;
 	color:#f5f4f4;
