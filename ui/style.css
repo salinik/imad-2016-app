@@ -323,3 +323,15 @@ text-align:justify;
     font-size: 70;
     font-weight: 700;
 }
+.rib1{
+    background-image:url(fb.png);
+    background-size:contain;
+    	position:absolute;
+	top:390%;
+	width:20;
+	height: 60px;
+	text-align:center;
+	background-color:#111;
+	color:#f5f4f4;
+	padding-top:10px;
+}
